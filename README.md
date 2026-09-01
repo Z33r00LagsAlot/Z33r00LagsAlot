@@ -4,9 +4,11 @@
  
          [Ｍｙ　ｆａｖｓ　ａｒｅ:]
  
-.✦ ݁˖ Storm [Ororo Munroe]
+.✦ ݁˖ Storm [Ororo Munroe/Loved her since i first saw her in lego marvel superheros as a kid]
 
-.✦ ݁˖ Spider-Man [Miles Morales/ i love peter too but i relate to Miles more]
+.✦ ݁˖ Black Panther [Shuri/WORDS CANNOT EXPRESS HOW MUCH I LOVE AFRICAN SUPERHEROS]
+
+.✦ ݁˖ Spider-Man [Miles Morales/ i love Peter too but i relate to Miles more]
 
 .✦ ݁˖ Moonknight [loved the 2014 comic/haven't finished the show yet]
 
