@@ -8,7 +8,7 @@
 
 .✦ ݁˖ Spider-Man [Miles Morales/ i love peter too but i relate to Miles more]
 
-.✦ ݁˖ Moonknight [lobved the 2014 comic/haven't finished the show yet]
+.✦ ݁˖ Moonknight [loved the 2014 comic/haven't finished the show yet]
 
 .✦ ݁˖ Invisible Woman [Sue Storm/one of my Marvel Rivals mains 👀]
 
