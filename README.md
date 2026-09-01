@@ -8,13 +8,13 @@
 
 .✦ ݁˖ Spider-Man [Miles Morales/ i love peter too but i relate to Miles more]
 
-.✦ ݁˖ Moonknight [2014 comic/haven't finished the show yet]
+.✦ ݁˖ Moonknight [lobved the 2014 comic/haven't finished the show yet]
 
 .✦ ݁˖ Invisible Woman [Sue Storm/one of my Marvel Rivals mains 👀]
 
 .✦ ݁˖ The Signal [Duke Thomas/both regular and absolute]
 
-.✦ ݁˖ Loki Laufyson [Agent of asgard/MCU Loki series]
+.✦ ݁˖ Loki Laufyson [reading agent of asgard/MCU Loki series]
 
 .✦ ݁˖ The Arkham Knight [Yes this specific version of Jason]
 
