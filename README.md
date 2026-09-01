@@ -12,4 +12,7 @@
 
 .✦ ݁˖ Barbara Gordon [as Oracle]
 
-![Uploading ★ batman banner _ header.jpg…]()
+<img width="733" height="184" alt="★ batman banner _ header" src="https://github.com/user-attachments/assets/89147579-435e-469b-9eb6-61966626ef99" />
+
+<img width="640" height="358" alt="image" src="https://github.com/user-attachments/assets/33aa81b5-07b2-4d27-8018-cab4e97264db" />
+
