@@ -2,7 +2,7 @@
 
 
  
-          [Ｍｙ　ｆａｖｓ　ａｒｅ:]
+         [Ｍｙ　ｆａｖｓ　ａｒｅ:]
  
 .✦ ݁˖ Storm [Ororo Munroe]
 
@@ -23,6 +23,8 @@
 .✦ ݁˖ Absolute Wonder Woman [FREE MAINLINE HER FROM TOM KING]
 
 .✦ ݁˖ Absolute Flash [yes this exact version of Wally]
+
+.✦ ݁˖ Vibe [Cisco Ramon/I need more CW Flash PLEASE JAMES GUNN AT LEAST HAVE CISCO PRESENT IN THE DCU IDC WHO PLAYS HIM]
 
 .✦ ݁˖ Green Lantern [Jo Mullein/both regular and absolute]
 
