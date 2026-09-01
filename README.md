@@ -14,7 +14,7 @@
 
 .✦ ݁˖ The Signal [Duke Thomas/both regular and absolute]
 
-.✦ ݁˖ Loki Laufyson [reading agent of asgard/MCU Loki series]
+.✦ ݁˖ Loki Laufyson [reading agent of asgard/LOVED the MCU Loki series]
 
 .✦ ݁˖ The Arkham Knight [Yes this specific version of Jason]
 
@@ -26,7 +26,7 @@
 
 .✦ ݁˖ Vibe [Cisco Ramon/I need more CW Flash PLEASE JAMES GUNN AT LEAST HAVE CISCO PRESENT IN THE DCU IDC WHO PLAYS HIM]
 
-.✦ ݁˖ Green Lantern [Jo Mullein/both regular and absolute]
+.✦ ݁˖ Green Lantern [Jo Mullein/both regular and absolute/I enjoyed reading Far Sector]
 
 PLS SIGN MY ATABOOK
 
