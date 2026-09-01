@@ -2,19 +2,29 @@
 
 
  
- Ｍｙ　ｆａｖｓ　ｓｏ　ｆａｒ　ａｒｅ：
+          [Ｍｙ　ｆａｖｓ　ａｒｅ:]
  
-.✦ ݁˖ Storm
+.✦ ݁˖ Storm [Ororo Munroe]
 
-.✦ ݁˖Spider-Man [Miles Morales]
+.✦ ݁˖ Spider-Man [Miles Morales/ i love peter too but i relate to Miles more]
 
-.✦ ݁˖The Signal [Duke Thomas]
+.✦ ݁˖ Moonknight [2014 comic/haven't finished the show yet]
 
-.✦ ݁˖Loki
+.✦ ݁˖ Invisible Woman [Sue Storm/one of my Marvel Rivals mains 👀]
+
+.✦ ݁˖ The Signal [Duke Thomas/both regular and absolute]
+
+.✦ ݁˖ Loki Laufyson [Agent of asgard/MCU Loki series]
 
 .✦ ݁˖ The Arkham Knight [Yes this specific version of Jason]
 
-.✦ ݁˖ Barbara Gordon [as Oracle]
+.✦ ݁˖ Barbara Gordon [as Oracle/all i hear abt my girl online is her being shipped w nightwing like Starfire 💔]
 
+.✦ ݁˖ Absolute Wonder Woman [FREE MAINLINE HER FROM TOM KING]
 
+.✦ ݁˖ Absolute Flash [yes this exact version of wally]
+
+.✦ ݁˖ Green Lantern [Jo Mullein/both regular and absolute]
+
+PLS SIGN MY ATABOOK
 
