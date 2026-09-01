@@ -22,7 +22,7 @@
 
 .✦ ݁˖ Absolute Wonder Woman [FREE MAINLINE HER FROM TOM KING]
 
-.✦ ݁˖ Absolute Flash [yes this exact version of wally]
+.✦ ݁˖ Absolute Flash [yes this exact version of Wally]
 
 .✦ ݁˖ Green Lantern [Jo Mullein/both regular and absolute]
 
