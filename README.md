@@ -14,7 +14,7 @@
 
 .✦ ݁˖ Invisible Woman [Sue Storm/one of my Marvel Rivals mains 👀]
 
-.✦ ݁˖ The Signal [Duke Thomas/both regular and absolute]
+.✦ ݁˖ The Signal [Duke Thomas/both regular and absolute/THE GUY LOVES HEAVYMETAL SOMEONE DRAW HIM IN A HEAVY METAL T-SHIRT PLEASE PLEASE PLEASE]
 
 .✦ ݁˖ Loki Laufyson [reading agent of asgard/LOVED the MCU Loki series]
 
