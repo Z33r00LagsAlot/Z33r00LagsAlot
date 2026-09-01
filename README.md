@@ -1,4 +1,7 @@
-﻿Ｍｙ　ｆａｖｓ　ｓｏ　ｆａｒ　ａｒｅ：
+<img width="1200" height="401" alt="image" src="https://github.com/user-attachments/assets/0aa119ca-c2f4-4f6e-93e0-b38a130ab22d" />
+
+ 
+ Ｍｙ　ｆａｖｓ　ｓｏ　ｆａｒ　ａｒｅ：
  
 .✦ ݁˖ Storm
 
@@ -14,5 +17,4 @@
 
 <img width="733" height="184" alt="★ batman banner _ header" src="https://github.com/user-attachments/assets/89147579-435e-469b-9eb6-61966626ef99" />
 
-<img width="640" height="358" alt="image" src="https://github.com/user-attachments/assets/33aa81b5-07b2-4d27-8018-cab4e97264db" />
 
