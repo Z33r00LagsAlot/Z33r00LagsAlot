@@ -12,8 +12,8 @@
 <div align="center">
 ＦＲＩＥＮＤＳ！！！
 
-[![KorKor](https://img.shields.io/badge/kora-black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000)](https://github.com/korkor185)[![Lex](https://img.shields.io/badge/Lex-black?style=for-the-badge&logo=000000&logoColor=000000&labelColor=000000&color=000000
-)](https://github.com/Lex3034)[![Rose](https://img.shields.io/badge/Rose-black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000
+[![KorKor](https://img.shields.io/badge/kora-black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000)](https://github.com/korkor185)   [![Lex](https://img.shields.io/badge/Lex-black?style=for-the-badge&logo=000000&logoColor=000000&labelColor=000000&color=000000
+)](https://github.com/Lex3034)   [![Rose](https://img.shields.io/badge/Rose-black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000
 )](https://github.com/Senros3)
 
  </div>
