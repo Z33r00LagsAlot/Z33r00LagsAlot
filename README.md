@@ -12,8 +12,10 @@
 <div align="center">
 ＦＲＩＥＮＤＳ！！！
 
- @Lex3034 @Senros3 @korkor185
+ [@Lex3034](https://github.com/Lex3034) [@Senros3](https://github.com/Senros3) [@korkor185](https://github.com/korkor185)
 
  </div>
+
+
  
 <img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/4b6386f4-e52a-4344-abd3-47821c823612" />
