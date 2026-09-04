@@ -9,8 +9,4 @@
  
 </div>
 
-<div align="center">
- 
-<img width="1500" height="500" alt="Untitled92_20260903201121" src="https://github.com/user-attachments/assets/dc28a928-103c-4ce9-bc3f-e5e2001d45fa" />
-
-</div>
+<img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/4b6386f4-e52a-4344-abd3-47821c823612" />
