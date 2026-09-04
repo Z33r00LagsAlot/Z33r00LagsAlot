@@ -8,3 +8,9 @@
 [![Atabook](https://img.shields.io/badge/atabook-grey?style=for-the-badge&logo=Lag&logoColor=%23000000&logoSize=big&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Flagsalot.atabook.org%2F%3Fpage%3D1)](https://lagsalot.atabook.org/?page=1)
  
 </div>
+
+<div align="center">
+ 
+<img width="1500" height="500" alt="Untitled92_20260903201121" src="https://github.com/user-attachments/assets/dc28a928-103c-4ce9-bc3f-e5e2001d45fa" />
+
+</div>
