@@ -11,7 +11,8 @@
 
 <div align="center">
 ＦＲＩＥＮＤＳ！！！
-@Lex3034 @Senros3 @korkor185
+
+ @Lex3034 @Senros3 @korkor185
 
  </div>
  
