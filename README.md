@@ -3,3 +3,5 @@
 <img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/4b6386f4-e52a-4344-abd3-47821c823612" />
 
 [![Large Button](https://img.shields.io/badge/atabook-grey?style=plastic&logo=Lag&logoColor=%23000000&logoSize=big&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Flagsalot.atabook.org%2F%3Fpage%3D10)](https://lagsalot.atabook.org/?page=1)
+https://img.shields.io/badge/rentry-grey?style=plastic&logo=rentry&logoColor=%23000000&labelColor=%23000000&color=%23000000
+[![Large Button](https://img.shields.io/badge/rentry-grey?style=plastic&logo=rentry&logoColor=%23000000&labelColor=%23000000&color=%23000000)](https://rentry.co/Z33r00lagsalot)
