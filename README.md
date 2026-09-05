@@ -7,15 +7,14 @@
 [![Rentry](https://img.shields.io/badge/rentry-grey?style=for-the-badge&logo=rentry&logoColor=%23000000&labelColor=%23000000&color=%23000000)](https://rentry.co/Z33r00lagsalot)
 [![Atabook](https://img.shields.io/badge/atabook-grey?style=for-the-badge&logo=Lag&logoColor=%23000000&logoSize=big&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Flagsalot.atabook.org%2F%3Fpage%3D1)](https://lagsalot.atabook.org/?page=1)
 
+</div>
 
-
+<div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=22&pause=1000&color=000000&width=435&lines=I+do+it+'cause+I+like+it+and+I+like+it+'cause+it's+mine)](https://git.io/typing-svg)
 
-
-
- 
 </div>
+
 
 <div align="center">
 ＦＲＩＥＮＤＳ！！！
