@@ -5,14 +5,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=I+heard+your+music%2C+it+do+not+move+me"/></a>
 </p>
-
 <div align="center">
  
 [![Rentry](https://img.shields.io/badge/rentry-grey?style=for-the-badge&logo=rentry&logoColor=%23000000&labelColor=%23000000&color=%23000000)](https://rentry.co/Z33r00lagsalot)
 [![Atabook](https://img.shields.io/badge/atabook-grey?style=for-the-badge&logo=Lag&logoColor=%23000000&logoSize=big&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Flagsalot.atabook.org%2F%3Fpage%3D1)](https://lagsalot.atabook.org/?page=1)
 
 </div>
-
 <div align="center">
 ＦＲＩＥＮＤＳ！！！
 
