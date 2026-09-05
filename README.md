@@ -9,7 +9,9 @@
 
 
 
-<img width="971" height="47" alt="text" src="https://github.com/user-attachments/assets/7c33d55a-de61-4adf-a4bb-37c12f54b5a7" />
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=22&pause=1000&color=000000&width=435&lines=I+do+it+'cause+I+like+it+and+I+like+it+'cause+it's+mine)](https://git.io/typing-svg)
+
 
 
  
