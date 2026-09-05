@@ -11,7 +11,7 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=22&pause=1000&color=000000&width=435&lines=I+do+it+'cause+I+like+it+and+I+like+it+'cause+it's+mine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=22&pause=1000&color=000000&width=435&lines=I+heard+your+music%2C+it+do+not+move+me)](https://git.io/typing-svg)
 
 </div>
 
