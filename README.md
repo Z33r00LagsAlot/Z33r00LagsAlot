@@ -21,5 +21,5 @@
  
 <img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/4b6386f4-e52a-4344-abd3-47821c823612" />
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&letterSpacing=30%25&pause=2000&color=000000C2&width=435&lines=I+feel+beaten...+but+I+can't+give+up" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&letterSpacing=30%25&pause=2000&color=000000C2&width=435&lines=I+feel+beaten...+but+I+can't+give+up" alt="Typing SVG" /></a>
 </p>
