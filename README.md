@@ -1,11 +1,10 @@
 <img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/b9d7f1f4-d0ab-4727-bed5-92e2e6e0ccde" />
 
+
 <div align="center">
     
 [![Atabook](https://img.shields.io/badge/The_Miles_Morales_of_%40Ponytowns--rewards-Black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000
 )](https://github.com/Ponytowns-rewards)
-
-<img width="320" height="400" alt="pony-town-🕷🕸 _ s-ata-dance-sit-blinking-fixed-padded-4x (1)" src="https://github.com/user-attachments/assets/1a1191da-c8e3-431f-a797-261ffcd5b00c" />
 
     
 </div>
