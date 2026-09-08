@@ -3,7 +3,7 @@
 
 <div align="center">
     
-[![Atabook](https://img.shields.io/badge/The_Miles_Morales_of_%40Ponytowns--rewards-Black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000
+[![Atabook](https://img.shields.io/badge/The_Duke_Thomas_of_%40Ponytowns--rewards-Black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000
 )](https://github.com/Ponytowns-rewards)
 
     
