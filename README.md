@@ -8,10 +8,6 @@
     
 </div>
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=18&letterSpacing=30%25&pause=2000&color=000000F8&center=true&vCenter=true&width=435&lines=Am+I+dreaming%3F+is+there+more+like+us%3F" alt="Typing SVG" /></a>
-</p>
-
 <img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/b9d7f1f4-d0ab-4727-bed5-92e2e6e0ccde" />
 <img width="1934" height="1175" alt="Untitled98_20260904183423" src="https://github.com/user-attachments/assets/e0962508-1282-4cbd-9831-84ce153e28de" />
 <img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/4b6386f4-e52a-4344-abd3-47821c823612" />
@@ -34,3 +30,9 @@
 
  
 <img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/4b6386f4-e52a-4344-abd3-47821c823612" />
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kkz4lzh4akp3dgp4cyggniyz4y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=3b3b3b&bar_color_cover=false&mode=light">
+  </a>
+</p>
