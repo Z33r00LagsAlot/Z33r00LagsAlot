@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&letterSpacing=30%25&pause=2000&color=000000&width=435&lines=Thank+you+for+the+awards!!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=25&letterSpacing=30%25&pause=2000&color=000000&center=true&vCenter=true&width=435&lines=Thank+you+for+the+awards!!!" alt="Typing SVG" /></a>
 
 [![badge](https://img.shields.io/badge/The_Duke_Thomas_and_Miles_Morales_of_%40Ponytowns--rewards-Black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000)](https://github.com/Ponytowns-rewards)
 
