@@ -3,7 +3,7 @@
 
 <div align="center">
 
-Ｔｈａｎｋ ｙｏｕ ｆｏｒ ｔｈｅ ａｗａｒｄｓ！
+https://readme-typing-svg.demolab.com/demo/?font=Bebas+Neue&letterSpacing=30%25&pause=2000&color=000000&lines=Thank+you+for+the+awards!!!
 
 [![badge](https://img.shields.io/badge/The_Duke_Thomas_and_Miles_Morales_of_%40Ponytowns--rewards-Black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000)](https://github.com/Ponytowns-rewards)
 
