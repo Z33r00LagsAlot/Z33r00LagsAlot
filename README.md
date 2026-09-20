@@ -5,10 +5,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=25&letterSpacing=30%25&pause=2000&color=000000&center=true&vCenter=true&width=435&lines=Thank+you+for+the+awards!!!" alt="Typing SVG" /></a>
 
-[![badge](https://img.shields.io/badge/The_Duke_Thomas_and_Miles_Morales_of_%40Ponytowns--rewards-Black?style=for-the-badge&logoColor=000000&labelColor=000000&color=000000)](https://github.com/Ponytowns-rewards)
+[![badge](https://img.shields.io/badge/%40Ponytowns--rewards%3A_Miles_Morales_and_Duke_Thomas-black?style=for-the-badge)](https://github.com/Ponytowns-rewards)
 
 
-[![badge](https://img.shields.io/badge/The_Miles_Morales_of_%40paw--town-black?style=for-the-badge)](https://github.com/paw-town)
+[![badge](https://img.shields.io/badge/%40paw--town%3A_Miles_Morales-black?style=for-the-badge)](https://github.com/paw-town)
 
 
 [![badge](https://img.shields.io/badge/%40Songs--Town_Song%3A_Am_I_Dreaming_(ATSV_credits)-black?style=for-the-badge)](https://github.com/Songs-Town)
