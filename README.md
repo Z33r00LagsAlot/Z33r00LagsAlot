@@ -1,5 +1,4 @@
 <img width="1500" height="220" alt="Untitled87_20260903175913 (1)" src="https://github.com/user-attachments/assets/b9d7f1f4-d0ab-4727-bed5-92e2e6e0ccde" />
-![he](https://postimg.cc/ZWzh2VMN)
 
 <div align="center">
 
